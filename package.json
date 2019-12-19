@@ -1,0 +1,19 @@
+{
+  "name": "box2dremoteworldnodejs",
+  "version": "1.0.0",
+  "description": "h1. box2d physic networking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Singh_Davinder@bitbucket.org/Singh_Davinder/box2dremoteworldnodejs.git"
+  },
+  "author": "Davinder sir",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Singh_Davinder/box2dremoteworldnodejs#readme",
+  "dependencies": {
+    "socket.io": "^0.9.19"
+  }
+}
